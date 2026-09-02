@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Aufgabe 14
 // Wir bleiben bei einer einfachen for, aber ändern die Logik.
 // Schreibe eine Schleife, die nur die geraden Zahlen von 2 bis 20 ausgibt:

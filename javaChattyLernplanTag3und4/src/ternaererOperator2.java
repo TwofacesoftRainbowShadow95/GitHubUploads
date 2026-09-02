@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Aufgabe 19 – Ternär-Test
 // Jetzt nehmen wir den Scanner wieder raus, damit es wirklich nur um den Operator geht.
 // Gegeben: int alter = 31;

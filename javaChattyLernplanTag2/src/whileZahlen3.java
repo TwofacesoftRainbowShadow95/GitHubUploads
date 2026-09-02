@@ -1,4 +1,3 @@
-package chattyJava.src.tag2;
 
                                                 //Hinweise: Du brauchst drei Ebenen:
                                                 //while

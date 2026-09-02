@@ -1,5 +1,3 @@
-package chattyJava.src.tag2;
-
 // Aufgabe 11 – letzte while-Herausforderung
 // Jetzt testen wir, ob du es wirklich verstanden hast.
 // Schreibe ein Programm, das:

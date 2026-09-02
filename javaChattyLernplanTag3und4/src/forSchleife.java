@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Aufgabe 13 – dein erster for
 // Schreibe eine for-Schleife, die alle Zahlen von 1 bis 10 ausgibt.
 // Ergebnis:

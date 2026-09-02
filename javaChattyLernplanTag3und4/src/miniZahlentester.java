@@ -1,5 +1,3 @@
-package tag3und4;
-
 import java.util.Scanner;
 
 public class miniZahlentester {

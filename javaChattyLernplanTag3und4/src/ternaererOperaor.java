@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Aufgabe Erstelle:
 // int alter = 25;
 // und verwende keine if/else, sondern den ternären Operator, um status zu bestimmen.

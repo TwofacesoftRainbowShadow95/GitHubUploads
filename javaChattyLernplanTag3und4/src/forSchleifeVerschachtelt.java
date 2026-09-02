@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Aufgabe 16 – Verschachtelung
 // Hier testen wir, ob du das Prinzip von gestern wirklich übertragen kannst.
 // Schreibe zwei verschachtelte for-Schleifen, die folgendes ausgeben:

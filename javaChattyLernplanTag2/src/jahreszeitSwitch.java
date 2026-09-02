@@ -1,5 +1,3 @@
-package chattyJava.src.tag2;
-
 import java.util.Scanner;
 
 // Switch Aufgabe 1:

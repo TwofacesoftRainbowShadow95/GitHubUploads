@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Mini-Zahlenanalyse
 // Schreibe ein Programm, das den Benutzer nach einer positiven Ganzzahl fragt.
 // 1️. Zahl einlesen

@@ -1,5 +1,3 @@
-package chattyJava.src.tag2;
-
 // Aufgabe 12 Schreibe ein Programm,                                Hinweise Du brauchst:
 // das den Benutzer nach einer Zahl fragt.                          - Scanner
 // Das Programm soll die Zahl mindestens einmal abfragen            - int zahl

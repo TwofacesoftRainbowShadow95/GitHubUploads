@@ -1,5 +1,3 @@
-package chattyJava.src.tag2;
-
 // Aufgabe 7 – while
 
 // Wir starten erstmal einfach, aber du sollst es selbst schreiben.

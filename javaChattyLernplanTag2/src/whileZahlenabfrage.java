@@ -1,5 +1,3 @@
-package chattyJava.src.tag2;
-
 // Aufgabe 10 – while + Eingabe                     
 //           
 // Schreibe ein Programm, das den Benutzer                

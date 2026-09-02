@@ -1,5 +1,3 @@
-package tag3und4;
-
 // Aufgabe 15 – for + Bedingung
 // Schreibe eine Schleife von 1 bis 20, die:
 // - gerade Zahlen → Gerade: X

@@ -1,5 +1,3 @@
-package chattyJava.src.tag2;
-
 // Aufgabe 8 – Verschachtelte while
 // Wir möchten folgendes ausgeben:
 
