@@ -1,13 +1,6 @@
-package tag7;
-
-import java.util.Scanner;
-
 // Schreibe ein Programm, das einen Satz vom Benutzer einliest, z. B.:
-
-// Hallo Java Welt
-
+//      Hallo Java Welt
 // Dein Programm soll:
-
 // 1. Den Satz einlesen.
 // 2. Eine eigene Methode analysiereText(...) erstellen.
 // 3. In dieser Methode:
@@ -19,6 +12,9 @@ import java.util.Scanner;
 // Verwende dabei mindestens einen Methodenparameter und einen Rückgabewert.
 
 // Wichtig: Du musst nicht alles in eine einzige Methode quetschen. Überleg selbst, wie du es strukturieren möchtest.
+
+import java.util.Scanner;
+
 
 public class stringAnalyse {
 

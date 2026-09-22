@@ -1,4 +1,4 @@
-// Aufgabe: String-Werkzeug 🛠️
+// Aufgabe: String-Werkzeug 
 // Erstelle ein Programm, das:
 // - Einen Satz vom Benutzer einliest.                                              check
 // - Ein Suchwort vom Benutzer einliest.                                            check
