@@ -1,3 +1,5 @@
+# alles an Code wurde von Chatty erstellt
+
 def pruefe(punkte, grenze=50):
     return punkte >= grenze
 

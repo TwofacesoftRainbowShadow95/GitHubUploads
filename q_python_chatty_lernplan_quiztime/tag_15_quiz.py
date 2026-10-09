@@ -1,3 +1,5 @@
+# alles an Code wurde von Chatty erstellt
+
 zahl = 3
 
 while zahl <= 8:
